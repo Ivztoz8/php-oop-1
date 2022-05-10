@@ -69,6 +69,7 @@ $MatrixResurrections -> setOriginalanguagel("inglese");
         <div class="container-fluid p-3">
             <div class="class="d-flex row row-cols-2 justify-content-center align-items-center p-3">
             <a href="#"><i class="fa-solid fa-clapperboard text-white"></i></a> 
+            <img src="./img/6babe79bef3d80bf08505da050e4ff1d.png" alt="Logo Inc." class="ms-3">
             </div>
         </div>
     </header>
